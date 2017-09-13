@@ -234,35 +234,35 @@ Legal framework is the one of the most important aspects of the business. Nouspl
 
 ## 9. Nousplatform Token Sale Details
 
-Present Time is Closed Fundraising (135k$ raised, as of 12.09.2017)
-Pre-ICO: date TBA
-ICO: Date TBA
+ Present Time is Closed Fundraising (135k$ raised, as of 12.09.2017)
+ Pre-ICO: date TBA
+ ICO: Date TBA
 
 ### 9.1 Token Sale Goals and Distribution
 
-Closed Fundraising, Pre-ICO and ICO Target
-Total Investors Supply: 543 900 000 NOUS (70%)
-Closed Fundraising: 15 540 000 NOUS (2%)
-Pre-ICO: 23 310 000 NOUS (3%)
-ICO: 505 050 000 NOUS (65%)
+ Closed Fundraising, Pre-ICO and ICO Target
+ Total Investors Supply: 543 900 000 NOUS (70%)
+ Closed Fundraising: 15 540 000 NOUS (2%)
+ Pre-ICO: 23 310 000 NOUS (3%)
+ ICO: 505 050 000 NOUS (65%)
 
-Target on crowdsale: $40 million
-Total Token Supply: 777 000 000 NOUS of which:
+ Target on crowdsale: $40 million
+ Total Token Supply: 777 000 000 NOUS of which:
 
-70% Will Be Sold to Backers
-20% Will Be Retained by Nousplatform 
-5% Advisors, Grants, Partnerships
-3% Community
-2% Will Be Used To Cover Tokensale
+ 70% Will Be Sold to Backers
+ 20% Will Be Retained by Nousplatform 
+ 5% Advisors, Grants, Partnerships
+ 3% Community
+ 2% Will Be Used To Cover Tokensale
 
 ### 9.2 Proceeds Distribution
 
-30% Open source software development
-20% Legal Expenses, Licenses (FCA, SEC, etc.)
-15% Marketing and Business Development
-5% Operational Expenses
-15% Real Estate Fund
-15% Crypto Assets Fund
+ 30% Open source software development
+ 20% Legal Expenses, Licenses (FCA, SEC, etc.)
+ 15% Marketing and Business Development
+ 5% Operational Expenses
+ 15% Real Estate Fund
+ 15% Crypto Assets Fund
 
 ### 9.3  Pilot Investment Funds
 
