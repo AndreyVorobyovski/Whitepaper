@@ -404,7 +404,7 @@ This will be possible through Bancor protocol. Your ERC20 tokens will be stored 
 
 We use our protocol to create snapshots of verified wallets of the investment funds and record those in blockchain. That creates transparent and accurate data for statistics. Then the system analyzes this data and establishes a rating list based on the fund’s performance. This feature helps to build an investor’s confidence in the fund: the so-called Trust Level, which is also a factor for the ratings. At the TOP of the list, investors will see the most profitable funds that can be trusted.
  
-### Why do Investment funds need Nousplatform?
+### Why do Investment Funds need Nousplatform?
 
 The Investment funds need Nousplatform for asset management and attracting new investors from our growing community. Venture capital funds need Nousplatform to conduct voting. For a more transparent way in making investment decisions (see more details in whitepaper).
 
