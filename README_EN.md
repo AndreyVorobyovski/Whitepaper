@@ -302,7 +302,7 @@ Alexander is a financial consultant. His expertise is financing of the projects 
 ### ANDREY VOROBYOVSKI / CMO
 Andrey resides in United States. He is an expert in business development and marketing. He has decades of sales and management experience. His dedication, tenacity, organizational skills, vision and drive for success is a big asset to the team.
  
-#### DANIIL CHABANETS / Public relations
+### DANIIL CHABANETS / Public relations
 He is a specialist in International Trade - Incoterms. Daniil is an expert on building public relations.
  
 ### IRIC MUSABIROV / Lawyer
@@ -327,7 +327,7 @@ Completion of technical documentation
 Community Public Relations work
 Preparation of documentation for the establishment of pilot investment funds
  
-#### November of 2017
+### November of 2017
 ICO Launch
  
 ### December of 2017 – February of 2018
