@@ -408,8 +408,8 @@ https://www.facebook.com/nousplatform
 https://twitter.com/nousplatform
 
 ## Упоминания
-[1] BlackRock,Inc https://en.wikipedia.org/wiki/BlackRock
-[2] Хедж фонды https://en.wikipedia.org/wiki/List_of_hedge_funds
-[3] Инвестиционные банки и компании https://en.wikipedia.org/wiki/List_of_private_equity_firms
-[4] Разработчик KYC на блокчейне https://www.civic.com/
+  [1] BlackRock,Inc https://en.wikipedia.org/wiki/BlackRock
+  [2] Хедж фонды https://en.wikipedia.org/wiki/List_of_hedge_funds
+  [3] Инвестиционные банки и компании https://en.wikipedia.org/wiki/List_of_private_equity_firms
+  [4] Разработчик KYC на блокчейне https://www.civic.com/
 
