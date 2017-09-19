@@ -246,8 +246,8 @@ Legal framework is the one of the most important aspects of the business. Nouspl
  * Pre-ICO: 23 310 000 NOUS (3%)
  * ICO: 505 050 000 NOUS (65%)
 
- * Target for crowdsale: $40 million
- * Total Token Supply: 777 000 000 NOUS of which:
+  Target for crowdsale: $40 million
+  Total Token Supply: 777 000 000 NOUS of which:
 
  * 70% Will Be Sold to Backers
  * 20% Will Be Retained by Nousplatform 
